@@ -1,7 +1,8 @@
 # productservice
-create productservice using SOLID principles
-SRP - Single responsibility principle
-OCP - open/closed principle
-LSP - Liscov substitution principle
-ISP - Interface segregation principle
-DIP - Dependency inversion principle
+SOLID principles: 
+product service with solid principles
+1. SRP - Single responsibility principle
+2. OCP - open/closed principle
+3. LSP - Liscov substitution principle
+4. ISP - Interface segregation principle
+5. DIP - Dependency inversion principle
