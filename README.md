@@ -6,3 +6,6 @@ product service with solid principles
 3. LSP - Liscov substitution principle
 4. ISP - Interface segregation principle
 5. DIP - Dependency inversion principle
+
+
+https://app.diagrams.net/
