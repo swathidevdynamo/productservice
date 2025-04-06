@@ -1,0 +1,17 @@
+{
+  "name": "productservice",
+  "version": "1.0.0",
+  "description": "create productservice using SOLID principles\r SRP - Single responsibility principle\r OCP - open/closed principle\r LSP - Liscov substitution principle\r ISP - Interface segregation principle\r DIP - Dependency inversion principle",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  }
+}
